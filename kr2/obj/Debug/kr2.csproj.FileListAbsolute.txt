@@ -1,0 +1,6 @@
+C:\Users\gd182\source\repos\kr2\kr2\bin\Debug\kr2.exe.config
+C:\Users\gd182\source\repos\kr2\kr2\bin\Debug\kr2.exe
+C:\Users\gd182\source\repos\kr2\kr2\bin\Debug\kr2.pdb
+C:\Users\gd182\source\repos\kr2\kr2\obj\Debug\kr2.csproj.CoreCompileInputs.cache
+C:\Users\gd182\source\repos\kr2\kr2\obj\Debug\kr2.exe
+C:\Users\gd182\source\repos\kr2\kr2\obj\Debug\kr2.pdb

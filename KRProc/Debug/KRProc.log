@@ -1,0 +1,6 @@
+﻿  Proc.cpp
+C:\Users\gd182\source\repos\kr2\KRProc\Proc.cpp(11,6): warning C4091: __declspec(dllexport): пропускается слева от "item", когда ни одна переменная не объявлена
+C:\Users\gd182\source\repos\kr2\KRProc\Proc.cpp(17,6): warning C4091: __declspec(dllexport): пропускается слева от "itemDP", когда ни одна переменная не объявлена
+C:\Users\gd182\source\repos\kr2\KRProc\Proc.cpp(22,6): warning C4091: __declspec(dllexport): пропускается слева от "OutInf", когда ни одна переменная не объявлена
+     Создается библиотека C:\Users\gd182\source\repos\kr2\Debug\KRProc.lib и объект C:\Users\gd182\source\repos\kr2\Debug\KRProc.exp
+  KRProc.vcxproj -> C:\Users\gd182\source\repos\kr2\Debug\KRProc.dll
